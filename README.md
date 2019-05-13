@@ -1,3 +1,4 @@
+
 # vue-skeleton-architype
 
 ## Project setup
@@ -32,3 +33,6 @@ npm run test:unit
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Add materialize
+See [Configuration Reference](http://fullstackhybrid.com/using-materializecss-with-reactjs/)(https://medium.com/@michelnovellino.programador/integra-materializecss-framework-con-vuejs-en-3-sencillos-pasos-23021e983eaa)
