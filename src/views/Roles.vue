@@ -1,7 +1,6 @@
 <template>
   <div>
     <roles-navbar />
-    <language />
     <h3>Roles</h3>
     <div class="row">
       <role-item />

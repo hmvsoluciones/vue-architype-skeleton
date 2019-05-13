@@ -1,7 +1,6 @@
 <template>
   <div>
     <roles-navbar />
-    <language />
     <div id="loginContainer">
       <router-link to="/roles">roles</router-link>
       <div id="login-page" class="row">
