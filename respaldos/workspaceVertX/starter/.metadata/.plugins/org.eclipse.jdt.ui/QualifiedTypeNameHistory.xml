@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="io.vertx.ext.web.Route"/>
+<fullyQualifiedTypeName name="io.vertx.reactivex.ext.web.Route"/>
+<fullyQualifiedTypeName name="io.vertx.rxjava.ext.web.Route"/>
+<fullyQualifiedTypeName name="io.vertx.reactivex.ext.web.Router"/>
+<fullyQualifiedTypeName name="io.vertx.ext.web.Router"/>
+<fullyQualifiedTypeName name="io.vertx.core.http.HttpServerResponse"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.resources.ProductResources"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.entity.Product"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.resources.handler.UsersHandler"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.connection.ConnectionH2"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.entity.User"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="mx.conacyt.persistence.UserPersistence"/>
+<fullyQualifiedTypeName name="mx.conacyt.persistence.AuthorizationPersistence"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="io.vertx.core.http.HttpMethod"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="io.vertx.ext.web.handler.CorsHandler"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.model.User"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="mx.conacyt.persistence.MenuPersistence"/>
+<fullyQualifiedTypeName name="mx.conacyt.persistence.SubMenuPersistence"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.model.Menu"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.model.SubMenu"/>
+<fullyQualifiedTypeName name="mx.conacyt.board.model.SubMenuDTO"/>
+</qualifiedTypeNameHistroy>

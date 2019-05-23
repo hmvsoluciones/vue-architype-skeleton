@@ -1,0 +1,10 @@
+1548961732210	Rename type 'Product'
+1548961926267	Rename type 'ProductResources'
+1548962008617	Rename type 'ResourcesHandler'
+1548962013468	Rename type 'UserResources'
+1548962223746	Delete element
+1548962746474	Rename type 'Auth'
+1548962753724	Rename type 'UserPersistence'
+1548962770311	Rename type 'Authorization'
+1548962777700	Rename type 'User'
+1548965684569	Rename package 'mx.conacyt.board.entity'

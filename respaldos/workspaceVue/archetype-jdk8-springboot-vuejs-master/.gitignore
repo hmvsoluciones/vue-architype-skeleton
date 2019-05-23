@@ -1,0 +1,10 @@
+.project
+.classpath
+.settings/
+.idea/
+target/
+node/
+node_modules/
+selenium-debug.log
+*/test/**/coverage/
+*/test/**/reports/
